@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">How android looks</string>
+    <string name="heading">Test your knowledge of Android</string>
+    <string name="question_1">What color is the head of Android</string>
+    <string name="question_2">What color hands at Android</string>
+    <string name="question_3">What color are the legs of Android</string>
+    <string name="question_4">What color is the torso of Android</string>
+    <string name="purple">Purple</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="result">Result</string>
+</resources>
